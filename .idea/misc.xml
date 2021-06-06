@@ -3,6 +3,8 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/../SpringBoot+JPA+H2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringBootCrudOperation/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>

@@ -1,3 +1,8 @@
 com\helloworld\controller\HelloWorldController.class
-com\helloworld\HelloWorld.class
 com\helloworld\swagger\SwaggerConfig.class
+com\helloworld\repository\StudentRepository.class
+com\helloworld\controller\RegisterStudentController.class
+com\helloworld\model\Student.class
+com\helloworld\service\StudentServiceImpl.class
+com\helloworld\HelloWorld.class
+com\helloworld\service\StudentService.class
